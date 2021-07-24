@@ -1,7 +1,7 @@
 # BlackJack
 ## BlackJack game v1
   
-Pierwszy samodzielny projekt w języku JavaScript  
+Projekt w języku JavaScript  
   
 Celem projektu jest ćwiczenie programowania zorientowanego obiektowo w języku JavaScript  
   
